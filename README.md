@@ -42,3 +42,60 @@ https://marketplace-nft-ru8l.vercel.app/
 | `/login` | Entrar |
 | `/perfil` | Perfil e pedidos do usuário |
 | `/carteiras` | Carteiras digitais |
+
+## Como rodar
+
+Pré-requisitos: **Node.js 20+** e **npm**.
+
+```bash
+# instalar dependências
+npm install
+
+# ambiente de desenvolvimento (mocks habilitados automaticamente)
+npm run dev
+
+# build de produção
+npm run build
+
+# pré-visualizar o build
+npm run preview
+
+# lint
+npm run lint
+```
+
+A aplicação sobe em `http://localhost:5173`.
+
+## API mockada
+
+A aplicação usa o MSW para simular toda a API (`/api`). Os mocks são habilitados
+automaticamente no desenvolvimento e também em produção quando **não** existe
+`VITE_API_URL` configurada (caso do deploy na Vercel). Para controlar manualmente:
+
+```bash
+VITE_ENABLE_MOCKS=true
+```
+
+Os dados simulados (usuários, NFTs, estoque e pedidos) são persistidos no
+`localStorage` do navegador. O catálogo base fica em `src/mocks/catalog.json`.
+
+## Estrutura
+
+```
+src/
+  components/   # layout e componentes de UI
+  features/     # auth, cart, checkout, home, nfts, orders, profile
+  lib/          # api, formatação, query client, sessão
+  mocks/        # MSW (handlers, banco simulado, catálogo)
+  routes/       # rotas do TanStack Router
+  types/        # tipos da API
+```
+
+## Scripts
+
+| Script | Descrição |
+| --- | --- |
+| `dev` | Servidor de desenvolvimento com Vite |
+| `build` | Type-check + build de produção |
+| `lint` | ESLint |
+| `preview` | Pré-visualização do build |
