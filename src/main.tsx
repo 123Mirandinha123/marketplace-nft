@@ -6,7 +6,9 @@ import App from './App.tsx'
 
 async function enableMocking() {
   const mocksEnabled =
-    import.meta.env.DEV || import.meta.env.VITE_ENABLE_MOCKS === 'true'
+    import.meta.env.DEV ||
+    import.meta.env.VITE_ENABLE_MOCKS === 'true' ||
+    !import.meta.env.VITE_API_URL
 
   if (!mocksEnabled) {
     return
