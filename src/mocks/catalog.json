@@ -1,0 +1,2153 @@
+[
+  {
+    "id": "nft-1",
+    "name": "Emerald Ape #042",
+    "description": "Um colecionável digital finalizado à mão da coleção Arte digital, verificado na Polygon.",
+    "collection": "Arte digital",
+    "network": "Polygon",
+    "priceEth": "1.19",
+    "imageUrl": "/images/Frame-136.webp",
+    "creator": {
+      "name": "Nova Sato",
+      "address": "nova.kurio.eth"
+    },
+    "editions": [
+      {
+        "id": "1-1",
+        "name": "1/50",
+        "totalSupply": 50,
+        "available": 18
+      },
+      {
+        "id": "1-1of1",
+        "name": "1/1",
+        "totalSupply": 1,
+        "available": 0
+      },
+      {
+        "id": "1-1of10",
+        "name": "1/10",
+        "totalSupply": 10,
+        "available": 1
+      },
+      {
+        "id": "1-open",
+        "name": "ABERTA",
+        "totalSupply": null,
+        "available": 999
+      }
+    ],
+    "attributes": [
+      "Óculos",
+      "Esmeralda",
+      "Raro"
+    ],
+    "contractAddress": "0x7A42…19E8"
+  },
+  {
+    "id": "nft-2",
+    "name": "Genesis Drop #001",
+    "description": "Um colecionável digital finalizado à mão da coleção Colecionáveis, verificado na Ethereum.",
+    "collection": "Colecionáveis",
+    "network": "Ethereum",
+    "priceEth": "4.2",
+    "imageUrl": "/images/NFT-Artwork-05.webp",
+    "creator": {
+      "name": "Nova Sato",
+      "address": "nova.kurio.eth"
+    },
+    "editions": [
+      {
+        "id": "2-1",
+        "name": "1/10",
+        "totalSupply": 10,
+        "available": 3
+      },
+      {
+        "id": "2-1of1",
+        "name": "1/1",
+        "totalSupply": 1,
+        "available": 0
+      },
+      {
+        "id": "2-1of50",
+        "name": "1/50",
+        "totalSupply": 50,
+        "available": 14
+      },
+      {
+        "id": "2-open",
+        "name": "ABERTA",
+        "totalSupply": null,
+        "available": 999
+      }
+    ],
+    "attributes": [
+      "Gênese",
+      "Edição limitada"
+    ],
+    "contractAddress": "0x91C3…4D2A"
+  },
+  {
+    "id": "nft-3",
+    "name": "Crimson Ape #007",
+    "description": "Um colecionável digital finalizado à mão da coleção Arte digital, verificado na Polygon.",
+    "collection": "Arte digital",
+    "network": "Polygon",
+    "priceEth": "0.85",
+    "imageUrl": "/images/NFT-Artwork-05.webp",
+    "creator": {
+      "name": "Nova Sato",
+      "address": "nova.kurio.eth"
+    },
+    "editions": [
+      {
+        "id": "3-1",
+        "name": "1/50",
+        "totalSupply": 50,
+        "available": 50
+      },
+      {
+        "id": "3-1of1",
+        "name": "1/1",
+        "totalSupply": 1,
+        "available": 1
+      },
+      {
+        "id": "3-1of10",
+        "name": "1/10",
+        "totalSupply": 10,
+        "available": 3
+      },
+      {
+        "id": "3-open",
+        "name": "ABERTA",
+        "totalSupply": null,
+        "available": 999
+      }
+    ],
+    "attributes": [
+      "Óculos",
+      "Jaqueta",
+      "Raro"
+    ],
+    "contractAddress": "0x7A42…19E8"
+  },
+  {
+    "id": "nft-4",
+    "name": "Solace in Motion",
+    "description": "Um colecionável digital finalizado à mão da coleção Música, verificado na Ethereum.",
+    "collection": "Música",
+    "network": "Ethereum",
+    "priceEth": "2.75",
+    "imageUrl": "/images/NFT-Artwork-09.webp",
+    "creator": {
+      "name": "Nova Sato",
+      "address": "nova.kurio.eth"
+    },
+    "editions": [
+      {
+        "id": "4-1",
+        "name": "1/1",
+        "totalSupply": 1,
+        "available": 1
+      },
+      {
+        "id": "4-1of10",
+        "name": "1/10",
+        "totalSupply": 10,
+        "available": 0
+      },
+      {
+        "id": "4-1of50",
+        "name": "1/50",
+        "totalSupply": 50,
+        "available": 28
+      },
+      {
+        "id": "4-open",
+        "name": "ABERTA",
+        "totalSupply": null,
+        "available": 999
+      }
+    ],
+    "attributes": [
+      "Faixa inédita",
+      "Áudio sem perdas"
+    ],
+    "contractAddress": "0x8F21…0A4E"
+  },
+  {
+    "id": "nft-5",
+    "name": "Neon Drift #12",
+    "description": "Um colecionável digital finalizado à mão da coleção Generativa, verificado na Polygon.",
+    "collection": "Generativa",
+    "network": "Polygon",
+    "priceEth": "0.49",
+    "imageUrl": "/images/NFT-Artwork-05.webp",
+    "creator": {
+      "name": "Nova Sato",
+      "address": "nova.kurio.eth"
+    },
+    "editions": [
+      {
+        "id": "5-open",
+        "name": "ABERTA",
+        "totalSupply": null,
+        "available": 999
+      },
+      {
+        "id": "5-1of1",
+        "name": "1/1",
+        "totalSupply": 1,
+        "available": 0
+      },
+      {
+        "id": "5-1of10",
+        "name": "1/10",
+        "totalSupply": 10,
+        "available": 1
+      },
+      {
+        "id": "5-1of50",
+        "name": "1/50",
+        "totalSupply": 50,
+        "available": 35
+      }
+    ],
+    "attributes": [
+      "Algorítmica",
+      "Seed única"
+    ],
+    "contractAddress": "0x6B04…E19F"
+  },
+  {
+    "id": "nft-6",
+    "name": "Aurora Fragment",
+    "description": "Um colecionável digital finalizado à mão da coleção Jogos, verificado na Ethereum.",
+    "collection": "Jogos",
+    "network": "Ethereum",
+    "priceEth": "6.5",
+    "imageUrl": "/images/NFT-Artwork-18.webp",
+    "creator": {
+      "name": "Nova Sato",
+      "address": "nova.kurio.eth"
+    },
+    "editions": [
+      {
+        "id": "6-1",
+        "name": "1/1",
+        "totalSupply": 1,
+        "available": 0
+      },
+      {
+        "id": "6-1of10",
+        "name": "1/10",
+        "totalSupply": 10,
+        "available": 2
+      },
+      {
+        "id": "6-1of50",
+        "name": "1/50",
+        "totalSupply": 50,
+        "available": 42
+      },
+      {
+        "id": "6-open",
+        "name": "ABERTA",
+        "totalSupply": null,
+        "available": 999
+      }
+    ],
+    "attributes": [
+      "Item de jogo",
+      "Utilizável"
+    ],
+    "contractAddress": "0xC2A8…5D60"
+  },
+  {
+    "id": "nft-7",
+    "name": "Golden Ape #003",
+    "description": "Um colecionável digital finalizado à mão da coleção Arte digital, verificado na Ethereum.",
+    "collection": "Arte digital",
+    "network": "Ethereum",
+    "priceEth": "3.1",
+    "imageUrl": "/images/NFT-Artwork-05.webp",
+    "creator": {
+      "name": "Nova Sato",
+      "address": "nova.kurio.eth"
+    },
+    "editions": [
+      {
+        "id": "7-1",
+        "name": "1/50",
+        "totalSupply": 50,
+        "available": 27
+      },
+      {
+        "id": "7-1of1",
+        "name": "1/1",
+        "totalSupply": 1,
+        "available": 0
+      },
+      {
+        "id": "7-1of10",
+        "name": "1/10",
+        "totalSupply": 10,
+        "available": 3
+      },
+      {
+        "id": "7-open",
+        "name": "ABERTA",
+        "totalSupply": null,
+        "available": 999
+      }
+    ],
+    "attributes": [
+      "Óculos",
+      "Jaqueta",
+      "Raro"
+    ],
+    "contractAddress": "0x7A42…19E8"
+  },
+  {
+    "id": "nft-8",
+    "name": "Genesis Drop #008",
+    "description": "Um colecionável digital finalizado à mão da coleção Colecionáveis, verificado na Polygon.",
+    "collection": "Colecionáveis",
+    "network": "Polygon",
+    "priceEth": "1.9",
+    "imageUrl": "/images/NFT-Artwork-05.webp",
+    "creator": {
+      "name": "Nova Sato",
+      "address": "nova.kurio.eth"
+    },
+    "editions": [
+      {
+        "id": "8-1",
+        "name": "1/10",
+        "totalSupply": 10,
+        "available": 8
+      },
+      {
+        "id": "8-1of1",
+        "name": "1/1",
+        "totalSupply": 1,
+        "available": 0
+      },
+      {
+        "id": "8-1of50",
+        "name": "1/50",
+        "totalSupply": 50,
+        "available": 6
+      },
+      {
+        "id": "8-open",
+        "name": "ABERTA",
+        "totalSupply": null,
+        "available": 999
+      }
+    ],
+    "attributes": [
+      "Gênese",
+      "Edição limitada"
+    ],
+    "contractAddress": "0x91C3…4D2A"
+  },
+  {
+    "id": "nft-9",
+    "name": "Static Bloom",
+    "description": "Um colecionável digital finalizado à mão da coleção Arte 3D, verificado na Ethereum.",
+    "collection": "Arte 3D",
+    "network": "Ethereum",
+    "priceEth": "0.99",
+    "imageUrl": "/images/NFT-Artwork-05.webp",
+    "creator": {
+      "name": "Nova Sato",
+      "address": "nova.kurio.eth"
+    },
+    "editions": [
+      {
+        "id": "9-open",
+        "name": "ABERTA",
+        "totalSupply": null,
+        "available": 999
+      },
+      {
+        "id": "9-1of1",
+        "name": "1/1",
+        "totalSupply": 1,
+        "available": 1
+      },
+      {
+        "id": "9-1of10",
+        "name": "1/10",
+        "totalSupply": 10,
+        "available": 1
+      },
+      {
+        "id": "9-1of50",
+        "name": "1/50",
+        "totalSupply": 50,
+        "available": 13
+      }
+    ],
+    "attributes": [
+      "Escultura",
+      "Render 4K"
+    ],
+    "contractAddress": "0x5E17…A0C6"
+  },
+  {
+    "id": "nft-10",
+    "name": "Iron Ape #019",
+    "description": "Um colecionável digital finalizado à mão da coleção Arte digital, verificado na Polygon.",
+    "collection": "Arte digital",
+    "network": "Polygon",
+    "priceEth": "1.45",
+    "imageUrl": "/images/NFT-Artwork-05.webp",
+    "creator": {
+      "name": "Nova Sato",
+      "address": "nova.kurio.eth"
+    },
+    "editions": [
+      {
+        "id": "10-1",
+        "name": "1/50",
+        "totalSupply": 50,
+        "available": 41
+      },
+      {
+        "id": "10-1of1",
+        "name": "1/1",
+        "totalSupply": 1,
+        "available": 0
+      },
+      {
+        "id": "10-1of10",
+        "name": "1/10",
+        "totalSupply": 10,
+        "available": 2
+      },
+      {
+        "id": "10-open",
+        "name": "ABERTA",
+        "totalSupply": null,
+        "available": 999
+      }
+    ],
+    "attributes": [
+      "Óculos",
+      "Jaqueta",
+      "Raro"
+    ],
+    "contractAddress": "0x7A42…19E8"
+  },
+  {
+    "id": "nft-11",
+    "name": "Void Garden",
+    "description": "Um colecionável digital finalizado à mão da coleção Assinaturas, verificado na Polygon.",
+    "collection": "Assinaturas",
+    "network": "Polygon",
+    "priceEth": "0.68",
+    "imageUrl": "/images/NFT-Artwork-05.webp",
+    "creator": {
+      "name": "Nova Sato",
+      "address": "nova.kurio.eth"
+    },
+    "editions": [
+      {
+        "id": "11-1",
+        "name": "1/100",
+        "totalSupply": 100,
+        "available": 100
+      },
+      {
+        "id": "11-1of1",
+        "name": "1/1",
+        "totalSupply": 1,
+        "available": 0
+      },
+      {
+        "id": "11-1of10",
+        "name": "1/10",
+        "totalSupply": 10,
+        "available": 3
+      },
+      {
+        "id": "11-1of50",
+        "name": "1/50",
+        "totalSupply": 50,
+        "available": 27
+      },
+      {
+        "id": "11-open",
+        "name": "ABERTA",
+        "totalSupply": null,
+        "available": 999
+      }
+    ],
+    "attributes": [
+      "Acesso mensal",
+      "Benefícios"
+    ],
+    "contractAddress": "0x2B8F…7E31"
+  },
+  {
+    "id": "nft-12",
+    "name": "Genesis Drop #013",
+    "description": "Um colecionável digital finalizado à mão da coleção Colecionáveis, verificado na Ethereum.",
+    "collection": "Colecionáveis",
+    "network": "Ethereum",
+    "priceEth": "5.0",
+    "imageUrl": "/images/NFT-Artwork-05.webp",
+    "creator": {
+      "name": "Nova Sato",
+      "address": "nova.kurio.eth"
+    },
+    "editions": [
+      {
+        "id": "12-1",
+        "name": "1/10",
+        "totalSupply": 10,
+        "available": 1
+      },
+      {
+        "id": "12-1of1",
+        "name": "1/1",
+        "totalSupply": 1,
+        "available": 1
+      },
+      {
+        "id": "12-1of50",
+        "name": "1/50",
+        "totalSupply": 50,
+        "available": 34
+      },
+      {
+        "id": "12-open",
+        "name": "ABERTA",
+        "totalSupply": null,
+        "available": 999
+      }
+    ],
+    "attributes": [
+      "Gênese",
+      "Edição limitada"
+    ],
+    "contractAddress": "0x91C3…4D2A"
+  },
+  {
+    "id": "nft-13",
+    "name": "Chromatic Wave",
+    "description": "Um colecionável digital finalizado à mão da coleção Fotografia, verificado na Polygon.",
+    "collection": "Fotografia",
+    "network": "Polygon",
+    "priceEth": "0.27",
+    "imageUrl": "/images/NFT-Artwork-05.webp",
+    "creator": {
+      "name": "Nova Sato",
+      "address": "nova.kurio.eth"
+    },
+    "editions": [
+      {
+        "id": "13-open",
+        "name": "ABERTA",
+        "totalSupply": null,
+        "available": 999
+      },
+      {
+        "id": "13-1of1",
+        "name": "1/1",
+        "totalSupply": 1,
+        "available": 0
+      },
+      {
+        "id": "13-1of10",
+        "name": "1/10",
+        "totalSupply": 10,
+        "available": 1
+      },
+      {
+        "id": "13-1of50",
+        "name": "1/50",
+        "totalSupply": 50,
+        "available": 41
+      }
+    ],
+    "attributes": [
+      "Luz natural",
+      "Retrato"
+    ],
+    "contractAddress": "0x3D90…B71C"
+  },
+  {
+    "id": "nft-14",
+    "name": "Obsidian Ape #051",
+    "description": "Um colecionável digital finalizado à mão da coleção Arte digital, verificado na Ethereum.",
+    "collection": "Arte digital",
+    "network": "Ethereum",
+    "priceEth": "2.25",
+    "imageUrl": "/images/NFT-Artwork-05.webp",
+    "creator": {
+      "name": "Nova Sato",
+      "address": "nova.kurio.eth"
+    },
+    "editions": [
+      {
+        "id": "14-1",
+        "name": "1/50",
+        "totalSupply": 50,
+        "available": 6
+      },
+      {
+        "id": "14-1of1",
+        "name": "1/1",
+        "totalSupply": 1,
+        "available": 0
+      },
+      {
+        "id": "14-1of10",
+        "name": "1/10",
+        "totalSupply": 10,
+        "available": 2
+      },
+      {
+        "id": "14-open",
+        "name": "ABERTA",
+        "totalSupply": null,
+        "available": 999
+      }
+    ],
+    "attributes": [
+      "Óculos",
+      "Jaqueta",
+      "Raro"
+    ],
+    "contractAddress": "0x7A42…19E8"
+  },
+  {
+    "id": "nft-15",
+    "name": "Lumen Codex",
+    "description": "Um colecionável digital finalizado à mão da coleção Utilidade, verificado na Ethereum.",
+    "collection": "Utilidade",
+    "network": "Ethereum",
+    "priceEth": "8.0",
+    "imageUrl": "/images/NFT-Artwork-09.webp",
+    "creator": {
+      "name": "Nova Sato",
+      "address": "nova.kurio.eth"
+    },
+    "editions": [
+      {
+        "id": "15-1",
+        "name": "1/1",
+        "totalSupply": 1,
+        "available": 1
+      },
+      {
+        "id": "15-1of10",
+        "name": "1/10",
+        "totalSupply": 10,
+        "available": 3
+      },
+      {
+        "id": "15-1of50",
+        "name": "1/50",
+        "totalSupply": 50,
+        "available": 5
+      },
+      {
+        "id": "15-open",
+        "name": "ABERTA",
+        "totalSupply": null,
+        "available": 999
+      }
+    ],
+    "attributes": [
+      "Ingresso",
+      "Resgatável"
+    ],
+    "contractAddress": "0x4E7D…93B2"
+  },
+  {
+    "id": "nft-16",
+    "name": "Genesis Drop #021",
+    "description": "Um colecionável digital finalizado à mão da coleção Colecionáveis, verificado na Polygon.",
+    "collection": "Colecionáveis",
+    "network": "Polygon",
+    "priceEth": "0.75",
+    "imageUrl": "/images/NFT-Artwork-05.webp",
+    "creator": {
+      "name": "Nova Sato",
+      "address": "nova.kurio.eth"
+    },
+    "editions": [
+      {
+        "id": "16-1",
+        "name": "1/10",
+        "totalSupply": 10,
+        "available": 10
+      },
+      {
+        "id": "16-1of1",
+        "name": "1/1",
+        "totalSupply": 1,
+        "available": 0
+      },
+      {
+        "id": "16-1of50",
+        "name": "1/50",
+        "totalSupply": 50,
+        "available": 12
+      },
+      {
+        "id": "16-open",
+        "name": "ABERTA",
+        "totalSupply": null,
+        "available": 999
+      }
+    ],
+    "attributes": [
+      "Gênese",
+      "Edição limitada"
+    ],
+    "contractAddress": "0x91C3…4D2A"
+  },
+  {
+    "id": "nft-17",
+    "name": "Sage Nomad #009",
+    "description": "Um colecionável digital finalizado à mão da coleção Arte digital, verificado na Polygon.",
+    "collection": "Arte digital",
+    "network": "Polygon",
+    "priceEth": "1.69",
+    "imageUrl": "/images/NFT-Artwork-09.webp",
+    "creator": {
+      "name": "Nova Sato",
+      "address": "nova.kurio.eth"
+    },
+    "editions": [
+      {
+        "id": "17-1",
+        "name": "1/50",
+        "totalSupply": 50,
+        "available": 12
+      },
+      {
+        "id": "17-1of1",
+        "name": "1/1",
+        "totalSupply": 1,
+        "available": 0
+      },
+      {
+        "id": "17-1of10",
+        "name": "1/10",
+        "totalSupply": 10,
+        "available": 1
+      },
+      {
+        "id": "17-open",
+        "name": "ABERTA",
+        "totalSupply": null,
+        "available": 999
+      }
+    ],
+    "attributes": [
+      "Óculos",
+      "Jaqueta",
+      "Raro"
+    ],
+    "contractAddress": "0x7A42…19E8"
+  },
+  {
+    "id": "nft-18",
+    "name": "Neon Vessel #552",
+    "description": "Um colecionável digital finalizado à mão da coleção Generativa, verificado na Ethereum.",
+    "collection": "Generativa",
+    "network": "Ethereum",
+    "priceEth": "1.99",
+    "imageUrl": "/images/NFT-Artwork-18.webp",
+    "creator": {
+      "name": "Nova Sato",
+      "address": "nova.kurio.eth"
+    },
+    "editions": [
+      {
+        "id": "18-1",
+        "name": "1/50",
+        "totalSupply": 50,
+        "available": 25
+      },
+      {
+        "id": "18-1of1",
+        "name": "1/1",
+        "totalSupply": 1,
+        "available": 1
+      },
+      {
+        "id": "18-1of10",
+        "name": "1/10",
+        "totalSupply": 10,
+        "available": 2
+      },
+      {
+        "id": "18-open",
+        "name": "ABERTA",
+        "totalSupply": null,
+        "available": 999
+      }
+    ],
+    "attributes": [
+      "Algorítmica",
+      "Seed única"
+    ],
+    "contractAddress": "0x6B04…E19F"
+  },
+  {
+    "id": "nft-19",
+    "name": "Cosmic Bloom #118",
+    "description": "Um colecionável digital finalizado à mão da coleção Música, verificado na Polygon.",
+    "collection": "Música",
+    "network": "Polygon",
+    "priceEth": "1.29",
+    "imageUrl": "/images/NFT-Artwork-18.webp",
+    "creator": {
+      "name": "Nova Sato",
+      "address": "nova.kurio.eth"
+    },
+    "editions": [
+      {
+        "id": "19-1",
+        "name": "1/50",
+        "totalSupply": 50,
+        "available": 30
+      },
+      {
+        "id": "19-1of1",
+        "name": "1/1",
+        "totalSupply": 1,
+        "available": 0
+      },
+      {
+        "id": "19-1of10",
+        "name": "1/10",
+        "totalSupply": 10,
+        "available": 3
+      },
+      {
+        "id": "19-open",
+        "name": "ABERTA",
+        "totalSupply": null,
+        "available": 999
+      }
+    ],
+    "attributes": [
+      "Faixa inédita",
+      "Áudio sem perdas"
+    ],
+    "contractAddress": "0x8F21…0A4E"
+  },
+  {
+    "id": "nft-20",
+    "name": "Violet Nomad #314",
+    "description": "Um colecionável digital finalizado à mão da coleção Arte digital, verificado na Ethereum.",
+    "collection": "Arte digital",
+    "network": "Ethereum",
+    "priceEth": "1.39",
+    "imageUrl": "/images/NFT-Artwork-18.webp",
+    "creator": {
+      "name": "Nova Sato",
+      "address": "nova.kurio.eth"
+    },
+    "editions": [
+      {
+        "id": "20-1",
+        "name": "1/50",
+        "totalSupply": 50,
+        "available": 45
+      },
+      {
+        "id": "20-1of1",
+        "name": "1/1",
+        "totalSupply": 1,
+        "available": 0
+      },
+      {
+        "id": "20-1of10",
+        "name": "1/10",
+        "totalSupply": 10,
+        "available": 0
+      },
+      {
+        "id": "20-open",
+        "name": "ABERTA",
+        "totalSupply": null,
+        "available": 999
+      }
+    ],
+    "attributes": [
+      "Óculos",
+      "Jaqueta",
+      "Raro"
+    ],
+    "contractAddress": "0x7A42…19E8"
+  },
+  {
+    "id": "nft-21",
+    "name": "Ivory Baron #088",
+    "description": "Um colecionável digital finalizado à mão da coleção Arte 3D, verificado na Polygon.",
+    "collection": "Arte 3D",
+    "network": "Polygon",
+    "priceEth": "1.79",
+    "imageUrl": "/images/NFT-Artwork-05.webp",
+    "creator": {
+      "name": "Nova Sato",
+      "address": "nova.kurio.eth"
+    },
+    "editions": [
+      {
+        "id": "21-1",
+        "name": "1/50",
+        "totalSupply": 50,
+        "available": 8
+      },
+      {
+        "id": "21-1of1",
+        "name": "1/1",
+        "totalSupply": 1,
+        "available": 1
+      },
+      {
+        "id": "21-1of10",
+        "name": "1/10",
+        "totalSupply": 10,
+        "available": 1
+      },
+      {
+        "id": "21-open",
+        "name": "ABERTA",
+        "totalSupply": null,
+        "available": 999
+      }
+    ],
+    "attributes": [
+      "Escultura",
+      "Render 4K"
+    ],
+    "contractAddress": "0x5E17…A0C6"
+  },
+  {
+    "id": "nft-22",
+    "name": "Golden Beat #207",
+    "description": "Um colecionável digital finalizado à mão da coleção Jogos, verificado na Ethereum.",
+    "collection": "Jogos",
+    "network": "Ethereum",
+    "priceEth": "0.99",
+    "imageUrl": "/images/NFT-Artwork-09.webp",
+    "creator": {
+      "name": "Nova Sato",
+      "address": "nova.kurio.eth"
+    },
+    "editions": [
+      {
+        "id": "22-1",
+        "name": "1/50",
+        "totalSupply": 50,
+        "available": 19
+      },
+      {
+        "id": "22-1of1",
+        "name": "1/1",
+        "totalSupply": 1,
+        "available": 0
+      },
+      {
+        "id": "22-1of10",
+        "name": "1/10",
+        "totalSupply": 10,
+        "available": 2
+      },
+      {
+        "id": "22-open",
+        "name": "ABERTA",
+        "totalSupply": null,
+        "available": 999
+      }
+    ],
+    "attributes": [
+      "Item de jogo",
+      "Utilizável"
+    ],
+    "contractAddress": "0xC2A8…5D60"
+  },
+  {
+    "id": "nft-23",
+    "name": "Golden Signal #160",
+    "description": "Um colecionável digital finalizado à mão da coleção Arte digital, verificado na Polygon.",
+    "collection": "Arte digital",
+    "network": "Polygon",
+    "priceEth": "0.39",
+    "imageUrl": "/images/NFT-Artwork-09.webp",
+    "creator": {
+      "name": "Nova Sato",
+      "address": "nova.kurio.eth"
+    },
+    "editions": [
+      {
+        "id": "23-1",
+        "name": "1/50",
+        "totalSupply": 50,
+        "available": 22
+      },
+      {
+        "id": "23-1of1",
+        "name": "1/1",
+        "totalSupply": 1,
+        "available": 0
+      },
+      {
+        "id": "23-1of10",
+        "name": "1/10",
+        "totalSupply": 10,
+        "available": 3
+      },
+      {
+        "id": "23-open",
+        "name": "ABERTA",
+        "totalSupply": null,
+        "available": 999
+      }
+    ],
+    "attributes": [
+      "Óculos",
+      "Jaqueta",
+      "Raro"
+    ],
+    "contractAddress": "0x7A42…19E8"
+  },
+  {
+    "id": "nft-24",
+    "name": "Cyber Relic #004",
+    "description": "Um colecionável digital finalizado à mão da coleção Colecionáveis, verificado na Ethereum.",
+    "collection": "Colecionáveis",
+    "network": "Ethereum",
+    "priceEth": "3.8",
+    "imageUrl": "/images/NFT-Artwork-05.webp",
+    "creator": {
+      "name": "Nova Sato",
+      "address": "nova.kurio.eth"
+    },
+    "editions": [
+      {
+        "id": "24-1",
+        "name": "1/10",
+        "totalSupply": 10,
+        "available": 2
+      },
+      {
+        "id": "24-1of1",
+        "name": "1/1",
+        "totalSupply": 1,
+        "available": 1
+      },
+      {
+        "id": "24-1of50",
+        "name": "1/50",
+        "totalSupply": 50,
+        "available": 18
+      },
+      {
+        "id": "24-open",
+        "name": "ABERTA",
+        "totalSupply": null,
+        "available": 999
+      }
+    ],
+    "attributes": [
+      "Gênese",
+      "Edição limitada"
+    ],
+    "contractAddress": "0x91C3…4D2A"
+  },
+  {
+    "id": "nft-25",
+    "name": "Astral Mirage #077",
+    "description": "Um colecionável digital finalizado à mão da coleção Arte digital, verificado na Polygon.",
+    "collection": "Arte digital",
+    "network": "Polygon",
+    "priceEth": "1.15",
+    "imageUrl": "/images/NFT-Artwork-05.webp",
+    "creator": {
+      "name": "Nova Sato",
+      "address": "nova.kurio.eth"
+    },
+    "editions": [
+      {
+        "id": "25-1",
+        "name": "1/50",
+        "totalSupply": 50,
+        "available": 14
+      },
+      {
+        "id": "25-1of1",
+        "name": "1/1",
+        "totalSupply": 1,
+        "available": 0
+      },
+      {
+        "id": "25-1of10",
+        "name": "1/10",
+        "totalSupply": 10,
+        "available": 1
+      },
+      {
+        "id": "25-open",
+        "name": "ABERTA",
+        "totalSupply": null,
+        "available": 999
+      }
+    ],
+    "attributes": [
+      "Óculos",
+      "Jaqueta",
+      "Raro"
+    ],
+    "contractAddress": "0x7A42…19E8"
+  },
+  {
+    "id": "nft-26",
+    "name": "Quantum Echo",
+    "description": "Um colecionável digital finalizado à mão da coleção Fotografia, verificado na Ethereum.",
+    "collection": "Fotografia",
+    "network": "Ethereum",
+    "priceEth": "2.45",
+    "imageUrl": "/images/NFT-Artwork-05.webp",
+    "creator": {
+      "name": "Nova Sato",
+      "address": "nova.kurio.eth"
+    },
+    "editions": [
+      {
+        "id": "26-open",
+        "name": "ABERTA",
+        "totalSupply": null,
+        "available": 999
+      },
+      {
+        "id": "26-1of1",
+        "name": "1/1",
+        "totalSupply": 1,
+        "available": 0
+      },
+      {
+        "id": "26-1of10",
+        "name": "1/10",
+        "totalSupply": 10,
+        "available": 2
+      },
+      {
+        "id": "26-1of50",
+        "name": "1/50",
+        "totalSupply": 50,
+        "available": 32
+      }
+    ],
+    "attributes": [
+      "Luz natural",
+      "Retrato"
+    ],
+    "contractAddress": "0x3D90…B71C"
+  },
+  {
+    "id": "nft-27",
+    "name": "Solaris Flux #012",
+    "description": "Um colecionável digital finalizado à mão da coleção Assinaturas, verificado na Polygon.",
+    "collection": "Assinaturas",
+    "network": "Polygon",
+    "priceEth": "0.88",
+    "imageUrl": "/images/NFT-Artwork-05.webp",
+    "creator": {
+      "name": "Nova Sato",
+      "address": "nova.kurio.eth"
+    },
+    "editions": [
+      {
+        "id": "27-1",
+        "name": "1/100",
+        "totalSupply": 100,
+        "available": 72
+      },
+      {
+        "id": "27-1of1",
+        "name": "1/1",
+        "totalSupply": 1,
+        "available": 1
+      },
+      {
+        "id": "27-1of10",
+        "name": "1/10",
+        "totalSupply": 10,
+        "available": 3
+      },
+      {
+        "id": "27-1of50",
+        "name": "1/50",
+        "totalSupply": 50,
+        "available": 39
+      },
+      {
+        "id": "27-open",
+        "name": "ABERTA",
+        "totalSupply": null,
+        "available": 999
+      }
+    ],
+    "attributes": [
+      "Acesso mensal",
+      "Benefícios"
+    ],
+    "contractAddress": "0x2B8F…7E31"
+  },
+  {
+    "id": "nft-28",
+    "name": "Prism Monarch #033",
+    "description": "Um colecionável digital finalizado à mão da coleção Arte digital, verificado na Ethereum.",
+    "collection": "Arte digital",
+    "network": "Ethereum",
+    "priceEth": "4.10",
+    "imageUrl": "/images/NFT-Artwork-05.webp",
+    "creator": {
+      "name": "Nova Sato",
+      "address": "nova.kurio.eth"
+    },
+    "editions": [
+      {
+        "id": "28-1",
+        "name": "1/50",
+        "totalSupply": 50,
+        "available": 5
+      },
+      {
+        "id": "28-1of1",
+        "name": "1/1",
+        "totalSupply": 1,
+        "available": 0
+      },
+      {
+        "id": "28-1of10",
+        "name": "1/10",
+        "totalSupply": 10,
+        "available": 0
+      },
+      {
+        "id": "28-open",
+        "name": "ABERTA",
+        "totalSupply": null,
+        "available": 999
+      }
+    ],
+    "attributes": [
+      "Óculos",
+      "Jaqueta",
+      "Raro"
+    ],
+    "contractAddress": "0x7A42…19E8"
+  },
+  {
+    "id": "nft-29",
+    "name": "Ethereal Drift",
+    "description": "Um colecionável digital finalizado à mão da coleção Colecionáveis, verificado na Polygon.",
+    "collection": "Colecionáveis",
+    "network": "Polygon",
+    "priceEth": "1.55",
+    "imageUrl": "/images/NFT-Artwork-05.webp",
+    "creator": {
+      "name": "Nova Sato",
+      "address": "nova.kurio.eth"
+    },
+    "editions": [
+      {
+        "id": "29-1",
+        "name": "1/10",
+        "totalSupply": 10,
+        "available": 4
+      },
+      {
+        "id": "29-1of1",
+        "name": "1/1",
+        "totalSupply": 1,
+        "available": 0
+      },
+      {
+        "id": "29-1of50",
+        "name": "1/50",
+        "totalSupply": 50,
+        "available": 3
+      },
+      {
+        "id": "29-open",
+        "name": "ABERTA",
+        "totalSupply": null,
+        "available": 999
+      }
+    ],
+    "attributes": [
+      "Gênese",
+      "Edição limitada"
+    ],
+    "contractAddress": "0x91C3…4D2A"
+  },
+  {
+    "id": "nft-30",
+    "name": "Glitch Horizon #101",
+    "description": "Um colecionável digital finalizado à mão da coleção Generativa, verificado na Ethereum.",
+    "collection": "Generativa",
+    "network": "Ethereum",
+    "priceEth": "0.62",
+    "imageUrl": "/images/NFT-Artwork-05.webp",
+    "creator": {
+      "name": "Nova Sato",
+      "address": "nova.kurio.eth"
+    },
+    "editions": [
+      {
+        "id": "30-open",
+        "name": "ABERTA",
+        "totalSupply": null,
+        "available": 999
+      },
+      {
+        "id": "30-1of1",
+        "name": "1/1",
+        "totalSupply": 1,
+        "available": 1
+      },
+      {
+        "id": "30-1of10",
+        "name": "1/10",
+        "totalSupply": 10,
+        "available": 2
+      },
+      {
+        "id": "30-1of50",
+        "name": "1/50",
+        "totalSupply": 50,
+        "available": 10
+      }
+    ],
+    "attributes": [
+      "Algorítmica",
+      "Seed única"
+    ],
+    "contractAddress": "0x6B04…E19F"
+  },
+  {
+    "id": "nft-31",
+    "name": "Nexus Core #055",
+    "description": "Um colecionável digital finalizado à mão da coleção Utilidade, verificado na Polygon.",
+    "collection": "Utilidade",
+    "network": "Polygon",
+    "priceEth": "1.80",
+    "imageUrl": "/images/NFT-Artwork-05.webp",
+    "creator": {
+      "name": "Nova Sato",
+      "address": "nova.kurio.eth"
+    },
+    "editions": [
+      {
+        "id": "31-1",
+        "name": "1/50",
+        "totalSupply": 50,
+        "available": 31
+      },
+      {
+        "id": "31-1of1",
+        "name": "1/1",
+        "totalSupply": 1,
+        "available": 0
+      },
+      {
+        "id": "31-1of10",
+        "name": "1/10",
+        "totalSupply": 10,
+        "available": 3
+      },
+      {
+        "id": "31-open",
+        "name": "ABERTA",
+        "totalSupply": null,
+        "available": 999
+      }
+    ],
+    "attributes": [
+      "Ingresso",
+      "Resgatável"
+    ],
+    "contractAddress": "0x4E7D…93B2"
+  },
+  {
+    "id": "nft-32",
+    "name": "Phantom Bloom #220",
+    "description": "Um colecionável digital finalizado à mão da coleção Arte digital, verificado na Ethereum.",
+    "collection": "Arte digital",
+    "network": "Ethereum",
+    "priceEth": "2.90",
+    "imageUrl": "/images/NFT-Artwork-05.webp",
+    "creator": {
+      "name": "Nova Sato",
+      "address": "nova.kurio.eth"
+    },
+    "editions": [
+      {
+        "id": "32-1",
+        "name": "1/50",
+        "totalSupply": 50,
+        "available": 9
+      },
+      {
+        "id": "32-1of1",
+        "name": "1/1",
+        "totalSupply": 1,
+        "available": 0
+      },
+      {
+        "id": "32-1of10",
+        "name": "1/10",
+        "totalSupply": 10,
+        "available": 0
+      },
+      {
+        "id": "32-open",
+        "name": "ABERTA",
+        "totalSupply": null,
+        "available": 999
+      }
+    ],
+    "attributes": [
+      "Óculos",
+      "Jaqueta",
+      "Raro"
+    ],
+    "contractAddress": "0x7A42…19E8"
+  },
+  {
+    "id": "nft-33",
+    "name": "Vapor Wave #018",
+    "description": "Um colecionável digital finalizado à mão da coleção Arte 3D, verificado na Polygon.",
+    "collection": "Arte 3D",
+    "network": "Polygon",
+    "priceEth": "0.45",
+    "imageUrl": "/images/NFT-Artwork-05.webp",
+    "creator": {
+      "name": "Nova Sato",
+      "address": "nova.kurio.eth"
+    },
+    "editions": [
+      {
+        "id": "33-open",
+        "name": "ABERTA",
+        "totalSupply": null,
+        "available": 999
+      },
+      {
+        "id": "33-1of1",
+        "name": "1/1",
+        "totalSupply": 1,
+        "available": 1
+      },
+      {
+        "id": "33-1of10",
+        "name": "1/10",
+        "totalSupply": 10,
+        "available": 1
+      },
+      {
+        "id": "33-1of50",
+        "name": "1/50",
+        "totalSupply": 50,
+        "available": 31
+      }
+    ],
+    "attributes": [
+      "Escultura",
+      "Render 4K"
+    ],
+    "contractAddress": "0x5E17…A0C6"
+  },
+  {
+    "id": "nft-34",
+    "name": "Apex Nomad #040",
+    "description": "Um colecionável digital finalizado à mão da coleção Arte digital, verificado na Ethereum.",
+    "collection": "Arte digital",
+    "network": "Ethereum",
+    "priceEth": "3.25",
+    "imageUrl": "/images/NFT-Artwork-05.webp",
+    "creator": {
+      "name": "Nova Sato",
+      "address": "nova.kurio.eth"
+    },
+    "editions": [
+      {
+        "id": "34-1",
+        "name": "1/50",
+        "totalSupply": 50,
+        "available": 16
+      },
+      {
+        "id": "34-1of1",
+        "name": "1/1",
+        "totalSupply": 1,
+        "available": 0
+      },
+      {
+        "id": "34-1of10",
+        "name": "1/10",
+        "totalSupply": 10,
+        "available": 2
+      },
+      {
+        "id": "34-open",
+        "name": "ABERTA",
+        "totalSupply": null,
+        "available": 999
+      }
+    ],
+    "attributes": [
+      "Óculos",
+      "Jaqueta",
+      "Raro"
+    ],
+    "contractAddress": "0x7A42…19E8"
+  },
+  {
+    "id": "nft-35",
+    "name": "Aura Pulse #080",
+    "description": "Um colecionável digital finalizado à mão da coleção Música, verificado na Polygon.",
+    "collection": "Música",
+    "network": "Polygon",
+    "priceEth": "1.05",
+    "imageUrl": "/images/NFT-Artwork-05.webp",
+    "creator": {
+      "name": "Nova Sato",
+      "address": "nova.kurio.eth"
+    },
+    "editions": [
+      {
+        "id": "35-1",
+        "name": "1/100",
+        "totalSupply": 100,
+        "available": 85
+      },
+      {
+        "id": "35-1of1",
+        "name": "1/1",
+        "totalSupply": 1,
+        "available": 0
+      },
+      {
+        "id": "35-1of10",
+        "name": "1/10",
+        "totalSupply": 10,
+        "available": 3
+      },
+      {
+        "id": "35-1of50",
+        "name": "1/50",
+        "totalSupply": 50,
+        "available": 45
+      },
+      {
+        "id": "35-open",
+        "name": "ABERTA",
+        "totalSupply": null,
+        "available": 999
+      }
+    ],
+    "attributes": [
+      "Faixa inédita",
+      "Áudio sem perdas"
+    ],
+    "contractAddress": "0x8F21…0A4E"
+  },
+  {
+    "id": "nft-36",
+    "name": "Genesis Relic #009",
+    "description": "Um colecionável digital finalizado à mão da coleção Colecionáveis, verificado na Ethereum.",
+    "collection": "Colecionáveis",
+    "network": "Ethereum",
+    "priceEth": "6.0",
+    "imageUrl": "/images/NFT-Artwork-05.webp",
+    "creator": {
+      "name": "Nova Sato",
+      "address": "nova.kurio.eth"
+    },
+    "editions": [
+      {
+        "id": "36-1",
+        "name": "1/10",
+        "totalSupply": 10,
+        "available": 1
+      },
+      {
+        "id": "36-1of1",
+        "name": "1/1",
+        "totalSupply": 1,
+        "available": 1
+      },
+      {
+        "id": "36-1of50",
+        "name": "1/50",
+        "totalSupply": 50,
+        "available": 2
+      },
+      {
+        "id": "36-open",
+        "name": "ABERTA",
+        "totalSupply": null,
+        "available": 999
+      }
+    ],
+    "attributes": [
+      "Gênese",
+      "Edição limitada"
+    ],
+    "contractAddress": "0x91C3…4D2A"
+  },
+  {
+    "id": "nft-37",
+    "name": "Zero Gravity #002",
+    "description": "Um colecionável digital finalizado à mão da coleção Fotografia, verificado na Polygon.",
+    "collection": "Fotografia",
+    "network": "Polygon",
+    "priceEth": "0.78",
+    "imageUrl": "/images/NFT-Artwork-05.webp",
+    "creator": {
+      "name": "Nova Sato",
+      "address": "nova.kurio.eth"
+    },
+    "editions": [
+      {
+        "id": "37-open",
+        "name": "ABERTA",
+        "totalSupply": null,
+        "available": 999
+      },
+      {
+        "id": "37-1of1",
+        "name": "1/1",
+        "totalSupply": 1,
+        "available": 0
+      },
+      {
+        "id": "37-1of10",
+        "name": "1/10",
+        "totalSupply": 10,
+        "available": 1
+      },
+      {
+        "id": "37-1of50",
+        "name": "1/50",
+        "totalSupply": 50,
+        "available": 9
+      }
+    ],
+    "attributes": [
+      "Luz natural",
+      "Retrato"
+    ],
+    "contractAddress": "0x3D90…B71C"
+  },
+  {
+    "id": "nft-38",
+    "name": "Cyber Nomad #144",
+    "description": "Um colecionável digital finalizado à mão da coleção Arte digital, verificado na Ethereum.",
+    "collection": "Arte digital",
+    "network": "Ethereum",
+    "priceEth": "2.10",
+    "imageUrl": "/images/NFT-Artwork-05.webp",
+    "creator": {
+      "name": "Nova Sato",
+      "address": "nova.kurio.eth"
+    },
+    "editions": [
+      {
+        "id": "38-1",
+        "name": "1/50",
+        "totalSupply": 50,
+        "available": 21
+      },
+      {
+        "id": "38-1of1",
+        "name": "1/1",
+        "totalSupply": 1,
+        "available": 0
+      },
+      {
+        "id": "38-1of10",
+        "name": "1/10",
+        "totalSupply": 10,
+        "available": 2
+      },
+      {
+        "id": "38-open",
+        "name": "ABERTA",
+        "totalSupply": null,
+        "available": 999
+      }
+    ],
+    "attributes": [
+      "Óculos",
+      "Jaqueta",
+      "Raro"
+    ],
+    "contractAddress": "0x7A42…19E8"
+  },
+  {
+    "id": "nft-39",
+    "name": "Nova Bloom #303",
+    "description": "Um colecionável digital finalizado à mão da coleção Jogos, verificado na Polygon.",
+    "collection": "Jogos",
+    "network": "Polygon",
+    "priceEth": "1.35",
+    "imageUrl": "/images/NFT-Artwork-05.webp",
+    "creator": {
+      "name": "Nova Sato",
+      "address": "nova.kurio.eth"
+    },
+    "editions": [
+      {
+        "id": "39-1",
+        "name": "1/50",
+        "totalSupply": 50,
+        "available": 40
+      },
+      {
+        "id": "39-1of1",
+        "name": "1/1",
+        "totalSupply": 1,
+        "available": 1
+      },
+      {
+        "id": "39-1of10",
+        "name": "1/10",
+        "totalSupply": 10,
+        "available": 3
+      },
+      {
+        "id": "39-open",
+        "name": "ABERTA",
+        "totalSupply": null,
+        "available": 999
+      }
+    ],
+    "attributes": [
+      "Item de jogo",
+      "Utilizável"
+    ],
+    "contractAddress": "0xC2A8…5D60"
+  },
+  {
+    "id": "nft-40",
+    "name": "Obsidian Core #062",
+    "description": "Um colecionável digital finalizado à mão da coleção Colecionáveis, verificado na Ethereum.",
+    "collection": "Colecionáveis",
+    "network": "Ethereum",
+    "priceEth": "4.8",
+    "imageUrl": "/images/NFT-Artwork-05.webp",
+    "creator": {
+      "name": "Nova Sato",
+      "address": "nova.kurio.eth"
+    },
+    "editions": [
+      {
+        "id": "40-1",
+        "name": "1/10",
+        "totalSupply": 10,
+        "available": 3
+      },
+      {
+        "id": "40-1of1",
+        "name": "1/1",
+        "totalSupply": 1,
+        "available": 0
+      },
+      {
+        "id": "40-1of50",
+        "name": "1/50",
+        "totalSupply": 50,
+        "available": 30
+      },
+      {
+        "id": "40-open",
+        "name": "ABERTA",
+        "totalSupply": null,
+        "available": 999
+      }
+    ],
+    "attributes": [
+      "Gênese",
+      "Edição limitada"
+    ],
+    "contractAddress": "0x91C3…4D2A"
+  },
+  {
+    "id": "nft-41",
+    "name": "Pulse Matrix #015",
+    "description": "Um colecionável digital finalizado à mão da coleção Generativa, verificado na Polygon.",
+    "collection": "Generativa",
+    "network": "Polygon",
+    "priceEth": "0.52",
+    "imageUrl": "/images/NFT-Artwork-05.webp",
+    "creator": {
+      "name": "Nova Sato",
+      "address": "nova.kurio.eth"
+    },
+    "editions": [
+      {
+        "id": "41-open",
+        "name": "ABERTA",
+        "totalSupply": null,
+        "available": 999
+      },
+      {
+        "id": "41-1of1",
+        "name": "1/1",
+        "totalSupply": 1,
+        "available": 0
+      },
+      {
+        "id": "41-1of10",
+        "name": "1/10",
+        "totalSupply": 10,
+        "available": 1
+      },
+      {
+        "id": "41-1of50",
+        "name": "1/50",
+        "totalSupply": 50,
+        "available": 37
+      }
+    ],
+    "attributes": [
+      "Algorítmica",
+      "Seed única"
+    ],
+    "contractAddress": "0x6B04…E19F"
+  },
+  {
+    "id": "nft-42",
+    "name": "Hyper Ape #099",
+    "description": "Um colecionável digital finalizado à mão da coleção Arte digital, verificado na Ethereum.",
+    "collection": "Arte digital",
+    "network": "Ethereum",
+    "priceEth": "3.75",
+    "imageUrl": "/images/NFT-Artwork-05.webp",
+    "creator": {
+      "name": "Nova Sato",
+      "address": "nova.kurio.eth"
+    },
+    "editions": [
+      {
+        "id": "42-1",
+        "name": "1/50",
+        "totalSupply": 50,
+        "available": 7
+      },
+      {
+        "id": "42-1of1",
+        "name": "1/1",
+        "totalSupply": 1,
+        "available": 1
+      },
+      {
+        "id": "42-1of10",
+        "name": "1/10",
+        "totalSupply": 10,
+        "available": 2
+      },
+      {
+        "id": "42-open",
+        "name": "ABERTA",
+        "totalSupply": null,
+        "available": 999
+      }
+    ],
+    "attributes": [
+      "Óculos",
+      "Jaqueta",
+      "Raro"
+    ],
+    "contractAddress": "0x7A42…19E8"
+  },
+  {
+    "id": "nft-43",
+    "name": "Mirage Drift #024",
+    "description": "Um colecionável digital finalizado à mão da coleção Assinaturas, verificado na Polygon.",
+    "collection": "Assinaturas",
+    "network": "Polygon",
+    "priceEth": "0.95",
+    "imageUrl": "/images/NFT-Artwork-05.webp",
+    "creator": {
+      "name": "Nova Sato",
+      "address": "nova.kurio.eth"
+    },
+    "editions": [
+      {
+        "id": "43-1",
+        "name": "1/100",
+        "totalSupply": 100,
+        "available": 60
+      },
+      {
+        "id": "43-1of1",
+        "name": "1/1",
+        "totalSupply": 1,
+        "available": 0
+      },
+      {
+        "id": "43-1of10",
+        "name": "1/10",
+        "totalSupply": 10,
+        "available": 3
+      },
+      {
+        "id": "43-1of50",
+        "name": "1/50",
+        "totalSupply": 50,
+        "available": 1
+      },
+      {
+        "id": "43-open",
+        "name": "ABERTA",
+        "totalSupply": null,
+        "available": 999
+      }
+    ],
+    "attributes": [
+      "Acesso mensal",
+      "Benefícios"
+    ],
+    "contractAddress": "0x2B8F…7E31"
+  },
+  {
+    "id": "nft-44",
+    "name": "Genesis Artifact #011",
+    "description": "Um colecionável digital finalizado à mão da coleção Colecionáveis, verificado na Ethereum.",
+    "collection": "Colecionáveis",
+    "network": "Ethereum",
+    "priceEth": "5.2",
+    "imageUrl": "/images/NFT-Artwork-05.webp",
+    "creator": {
+      "name": "Nova Sato",
+      "address": "nova.kurio.eth"
+    },
+    "editions": [
+      {
+        "id": "44-1",
+        "name": "1/10",
+        "totalSupply": 10,
+        "available": 2
+      },
+      {
+        "id": "44-1of1",
+        "name": "1/1",
+        "totalSupply": 1,
+        "available": 0
+      },
+      {
+        "id": "44-1of50",
+        "name": "1/50",
+        "totalSupply": 50,
+        "available": 8
+      },
+      {
+        "id": "44-open",
+        "name": "ABERTA",
+        "totalSupply": null,
+        "available": 999
+      }
+    ],
+    "attributes": [
+      "Gênese",
+      "Edição limitada"
+    ],
+    "contractAddress": "0x91C3…4D2A"
+  },
+  {
+    "id": "nft-45",
+    "name": "Echo Horizon #008",
+    "description": "Um colecionável digital finalizado à mão da coleção Arte 3D, verificado na Polygon.",
+    "collection": "Arte 3D",
+    "network": "Polygon",
+    "priceEth": "0.38",
+    "imageUrl": "/images/NFT-Artwork-05.webp",
+    "creator": {
+      "name": "Nova Sato",
+      "address": "nova.kurio.eth"
+    },
+    "editions": [
+      {
+        "id": "45-open",
+        "name": "ABERTA",
+        "totalSupply": null,
+        "available": 999
+      },
+      {
+        "id": "45-1of1",
+        "name": "1/1",
+        "totalSupply": 1,
+        "available": 1
+      },
+      {
+        "id": "45-1of10",
+        "name": "1/10",
+        "totalSupply": 10,
+        "available": 1
+      },
+      {
+        "id": "45-1of50",
+        "name": "1/50",
+        "totalSupply": 50,
+        "available": 15
+      }
+    ],
+    "attributes": [
+      "Escultura",
+      "Render 4K"
+    ],
+    "contractAddress": "0x5E17…A0C6"
+  },
+  {
+    "id": "nft-46",
+    "name": "Titan Ape #070",
+    "description": "Um colecionável digital finalizado à mão da coleção Arte digital, verificado na Ethereum.",
+    "collection": "Arte digital",
+    "network": "Ethereum",
+    "priceEth": "2.65",
+    "imageUrl": "/images/NFT-Artwork-05.webp",
+    "creator": {
+      "name": "Nova Sato",
+      "address": "nova.kurio.eth"
+    },
+    "editions": [
+      {
+        "id": "46-1",
+        "name": "1/50",
+        "totalSupply": 50,
+        "available": 18
+      },
+      {
+        "id": "46-1of1",
+        "name": "1/1",
+        "totalSupply": 1,
+        "available": 0
+      },
+      {
+        "id": "46-1of10",
+        "name": "1/10",
+        "totalSupply": 10,
+        "available": 2
+      },
+      {
+        "id": "46-open",
+        "name": "ABERTA",
+        "totalSupply": null,
+        "available": 999
+      }
+    ],
+    "attributes": [
+      "Óculos",
+      "Jaqueta",
+      "Raro"
+    ],
+    "contractAddress": "0x7A42…19E8"
+  },
+  {
+    "id": "nft-47",
+    "name": "Zenith Pulse #110",
+    "description": "Um colecionável digital finalizado à mão da coleção Utilidade, verificado na Polygon.",
+    "collection": "Utilidade",
+    "network": "Polygon",
+    "priceEth": "1.50",
+    "imageUrl": "/images/NFT-Artwork-05.webp",
+    "creator": {
+      "name": "Nova Sato",
+      "address": "nova.kurio.eth"
+    },
+    "editions": [
+      {
+        "id": "47-1",
+        "name": "1/50",
+        "totalSupply": 50,
+        "available": 33
+      },
+      {
+        "id": "47-1of1",
+        "name": "1/1",
+        "totalSupply": 1,
+        "available": 0
+      },
+      {
+        "id": "47-1of10",
+        "name": "1/10",
+        "totalSupply": 10,
+        "available": 3
+      },
+      {
+        "id": "47-open",
+        "name": "ABERTA",
+        "totalSupply": null,
+        "available": 999
+      }
+    ],
+    "attributes": [
+      "Ingresso",
+      "Resgatável"
+    ],
+    "contractAddress": "0x4E7D…93B2"
+  },
+  {
+    "id": "nft-48",
+    "name": "Genesis Void #025",
+    "description": "Um colecionável digital finalizado à mão da coleção Colecionáveis, verificado na Ethereum.",
+    "collection": "Colecionáveis",
+    "network": "Ethereum",
+    "priceEth": "7.2",
+    "imageUrl": "/images/NFT-Artwork-05.webp",
+    "creator": {
+      "name": "Nova Sato",
+      "address": "nova.kurio.eth"
+    },
+    "editions": [
+      {
+        "id": "48-1",
+        "name": "1/10",
+        "totalSupply": 10,
+        "available": 1
+      },
+      {
+        "id": "48-1of1",
+        "name": "1/1",
+        "totalSupply": 1,
+        "available": 1
+      },
+      {
+        "id": "48-1of50",
+        "name": "1/50",
+        "totalSupply": 50,
+        "available": 36
+      },
+      {
+        "id": "48-open",
+        "name": "ABERTA",
+        "totalSupply": null,
+        "available": 999
+      }
+    ],
+    "attributes": [
+      "Gênese",
+      "Edição limitada"
+    ],
+    "contractAddress": "0x91C3…4D2A"
+  }
+]
