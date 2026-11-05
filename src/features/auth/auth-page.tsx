@@ -453,10 +453,9 @@ function RegisterFormContent({
           </label>
           <input
             id="modal-reg-username"
-            name="username"
-            autoComplete="username"
-            type="text"
-            placeholder="Nome de usuário"
+  autoComplete="username"
+  type="text"
+  placeholder="Nome de usuário"
             className={cn(
               'h-[40px] w-full rounded-[5px] border border-field bg-transparent px-4 font-mono text-[14px] text-foreground placeholder:text-text-secondary focus:border-primary focus:outline-none transition-colors',
               form.formState.errors.username && 'border-error',
