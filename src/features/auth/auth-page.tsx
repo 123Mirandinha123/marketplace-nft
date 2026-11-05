@@ -475,7 +475,6 @@ function RegisterFormContent({
           </label>
           <input
             id="modal-reg-email"
-            name="email"
             autoComplete="email"
             type="email"
             placeholder="contato@email.com"
@@ -499,7 +498,6 @@ function RegisterFormContent({
           <div className="relative">
             <input
               id="modal-reg-password"
-              name="password"
               autoComplete="new-password"
               type={showPassword ? 'text' : 'password'}
               placeholder="Senha (mín. 8 caracteres)"
@@ -530,7 +528,6 @@ function RegisterFormContent({
           </label>
           <input
             id="modal-reg-confirm"
-            name="confirmPassword"
             autoComplete="new-password"
             type={showPassword ? 'text' : 'password'}
             placeholder="Confirme sua senha"
