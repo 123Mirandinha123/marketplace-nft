@@ -38,6 +38,5 @@ carteira digital e acompanhar pedidos — tudo com uma API simulada no navegador
 | `/pagamento` | Checkout |
 | `/confirmacao` | Confirmação do pedido |
 | `/login` | Entrar |
-| `/cadastro` | Criar conta |
 | `/perfil` | Perfil e pedidos do usuário |
 | `/carteiras` | Carteiras digitais |
