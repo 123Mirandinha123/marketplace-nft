@@ -4,6 +4,8 @@ Marketplace de NFTs para colecionadores, criadores e cultura digital. A aplicaç
 permite explorar um catálogo de obras, montar carrinho, finalizar compras com
 carteira digital e acompanhar pedidos — tudo com uma API simulada no navegador.
 
+https://marketplace-nft-ru8l.vercel.app/
+
 ## Funcionalidades
 
 - Catálogo de NFTs com busca, filtros e destaques na home
